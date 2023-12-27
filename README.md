@@ -35,3 +35,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harivishvanath7&show_icons=true&locale=en&layout=compact" alt="harivishvanath7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harivishvanath7&show_icons=true&locale=en" alt="harivishvanath7" /></p>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=harivishvanath7&theme=city_light&hide_border=false)<br/>
+
+
