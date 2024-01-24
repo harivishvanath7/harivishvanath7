@@ -13,7 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [www.harivishvanath.com](www.harivishvanath.com)
 
-- 📝 I regularly write articles on various Tech Topics
 
 - 💬 Ask me about **HTML,CSS,JAVA & UI/UX Designing**
 
