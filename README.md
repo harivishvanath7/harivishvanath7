@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at my website [www.harivishvanath.com](www.harivishvanath.com)
 
 
-- 💬 Ask me about **HTML,CSS,JAVA & UI/UX Designing**
+- 💬 Ask me about **HTML,CSS,JAVA,C++ & UI/UX Designing**
 
 - 📫 How to reach me **harivishvanath7@gmail.com**
 
