@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVA,C++ & UI/UX Designing**
 
-- 📫 How to reach me **harivishvanath7@gmail.com**
+- 📫 Reach me at **harivishvanath7@gmail.com**
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
