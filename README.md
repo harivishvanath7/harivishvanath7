@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **an Internship**
 
-- 👨‍💻 All of my projects are available at my website [www.harivishvanath.com](www.harivishvanath.com)
+- 👨‍💻 All of my projects are available at my website [www.harivishvanath.com](https://www.harivishvanath.com)
 
 
 - 💬 Ask me about **HTML,CSS,JAVA,C++ & UI/UX Designing**
