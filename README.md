@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **contributing to Open Source**
+- 👯 I’m looking to collaborate on **Contributing to Open Source**
 
 - 🤝 I’m looking for help with **an Internship**
 
