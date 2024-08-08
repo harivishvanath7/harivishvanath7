@@ -9,8 +9,6 @@
   
 - 👯 I’m looking to collaborate on **Contributing to Open Source**
 
-- 🤝 I’m looking for help with **an Internship**
-
 - 👨‍💻 All of my projects are available at my website [www.harivishvanath.com](https://www.harivishvanath.com) 
 
 
