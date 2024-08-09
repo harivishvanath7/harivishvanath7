@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVA,C++ & MERN STACK**
 
-- 📫 Reach me at **harivishvanath7@gmail.com**
+- 📫 Mail me at **harivishvanath7@gmail.com**
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
