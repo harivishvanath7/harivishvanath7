@@ -7,7 +7,7 @@
  
 - 👯 I’m looking to collaborate on **Contributing to Open Source**
 
-- 👨‍💻 All of my projects are available on my [website](https://harivishvanath7.github.io/harivishvanath.com/)
+- 👨‍💻 All of my projects are available on my [Portfolio website](https://harivishvanath7.github.io/harivishvanath.com/)
 
 
 - 💬 Ask me about **HTML,CSS,JAVA,C++ & MERN STACK**
